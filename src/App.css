@@ -1,0 +1,9 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("https://www.todofondos.net/wp-content/uploads/descargar-bosque-montanas-atardecer-clima-fresco-minimalismo-1024x600-1-2048x1152.jpg");
+    background-position: center;
+    background-size: cover;
+}
